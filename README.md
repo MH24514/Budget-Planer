@@ -63,4 +63,4 @@ All entries end up in `data.csv` in the same folder. You can open it with Excel 
 
 # Notes
 
-- The program checks if you type something invalid (like letters instead of a number for the amount) and just asks again instead of crashing.
+The program checks if you type something invalid (like letters instead of a number for the amount) and just asks again instead of crashing.

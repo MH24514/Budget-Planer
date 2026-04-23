@@ -22,35 +22,27 @@ My project is a small budget planner that runs in the terminal. You can add your
 
 # How to run it
 
-You just need Python 3 installed (I used Python 3.11 but anything from 3.8 should work). No extra libraries, everything is standard Python.
+You just need Python 3 installed. No extra libraries, everything is standard Python.
 
 1. Download the files or clone the repo
 2. Open a terminal in the project folder
-3. Run:
-
-```
-python main.py
-```
-
+3. Run: python main.py
 4. Then just follow the menu, type a number from 1 to 6 and press Enter.
 
-Important: to save your data you have to exit with option 6. If you just close the window your new entries won't be saved.
+To save data you have to exit with option 6. If you just close the window your new entries won't be saved.
 
 # Example
 
 When you start the program it looks like this:
 
-```
---- Personal Budget Planner ---
+Personal Budget Planner
 1. Add new entry
 2. Show all entries
 3. Delete an entry
 4. Show summary (income, expenses, balance)
 5. Show expenses by category
 6. Save and quit
--------------------------------
 Please choose an option (1-6):
-```
 
 If you pick 1 it asks you for the type (income or expense), the amount, a category and a short description. The date is added automatically (today's date).
 

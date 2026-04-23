@@ -64,4 +64,3 @@ All entries end up in `data.csv` in the same folder. You can open it with Excel 
 # Notes
 
 - The program checks if you type something invalid (like letters instead of a number for the amount) and just asks again instead of crashing.
-- Could be extended later with things like a monthly budget limit or charts with matplotlib, but for now I focused on getting the basics working.

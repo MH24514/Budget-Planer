@@ -23,7 +23,7 @@ My project is a small budget planner that runs in the terminal. You can add your
 
 You just need Python 3 installed. No extra libraries, everything is standard Python.
 
-1. Download the files or clone the repo
+1. Download the files or clone the repository
 2. Open a terminal in the project folder
 3. Run: python main.py
 4. Then just follow the menu, type a number from 1 to 6 and press Enter.
